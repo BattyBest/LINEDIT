@@ -33,7 +33,7 @@ The following keys have the following functions:
 - \[Trace\] - Toggle whether to display cursor X,Y coordinates in the bottom-left of the screen.
 - \[Graph\] - Zoom in or out and/or change the resolution of the image.
 - \[Vars\] - Display the ordered points, if cursor is at an ordered point or points, then get the option to edit the point going from oldest to newest.
-- \[Enter\] - Export current image. When clicked, the program will error, intentionally. To get the export, click on the goto option, then delete the junk surrounding the list definition.
+- \[Enter\] - Export current image. When clicked, the program will error, intentionally. To get the export, click on the goto option, then delete the junk surrounding the list definition. You can then press enter, and then \[2ND\] + \[Entry\] to insert it into a program.
 - \[Stat\] - Display current list of ordered pairs. Will overflow off the screen if the list is too big.
 
 Note: In some of the functions, freeform text can be inputted. An invalid input will cause the program to crash. To recover your work if the program crashes, set the variable Z to 3 times pi before re-launching the program. This will import the previous list over. It will not import the zoom.
